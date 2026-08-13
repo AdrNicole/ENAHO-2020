@@ -5,7 +5,7 @@ ENAHO-2020-POBREZA/
 ├── README.md
 └──📁 ENAHO-2020/
     ├──📁 data/
-    │   └── README.md
+    │   └── ENAHO.csv
     ├──📁 powerbi/
     │   └── Dashboard_ENAHO_2020.pbix
     ├──📁 screenshots/
