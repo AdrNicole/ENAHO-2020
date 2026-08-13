@@ -12,6 +12,6 @@ ENAHO-2020-POBREZA/
 │   └── dashboard_2.png
 │   ├── dashboard_3.png
 │   └── dashboard_4.png
-└── docs/
-    └── metodologia.md
+└── metodologia/
+    └── docs
 ```
