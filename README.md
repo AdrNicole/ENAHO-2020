@@ -3,15 +3,16 @@
 ENAHO-2020-POBREZA/
 │
 ├── README.md
-├── data/
+├──📁 data/
 │   └── README.md
-├── powerbi/
+├──📁 powerbi/
 │   └── Dashboard_ENAHO_2020.pbix
-├── screenshots/
+├──📁 screenshots/
 │   ├── dashboard_1.png
 │   └── dashboard_2.png
 │   ├── dashboard_3.png
 │   └── dashboard_4.png
-└── metodologia/
-    └── docs
+└──📁 metodologia/
+    ├── Procesamiento.ipynb
+    └── informe.docx
 ```
